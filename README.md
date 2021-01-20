@@ -39,31 +39,36 @@ Zastosowane w aplikacji:
     
 ## Przykłady działania
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(7).png)
+ Utworzenie nwego użytkownika - hasło zaszyfrowane
  <br/>
  
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(8).png)
+ Walidacja hasła
  <br/>
- Walidacja danych
- 
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(9).png)
+ Walidacja maila
  <br/>
- 
  
  ![Logowanie](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(15).png)
+ Zalogowano i otrzymano token
  <br/>
  
  
  ![Lista książek](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(11).png)
+ Lista książek
  <br/>
  
  
  ![Dodawanie książki](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(13).png)
+ Dodawanie książki
  <br/>
  
  
  ![Zaktualizowana lista książek](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(14).png)
+ Zaktualizowana lista książek
  <br/>
  
  
  ![Wyszukiwanie ksiązki po ID](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(12).png)
+ Wyszukiwanie ksiazki po ID
  <br/>
