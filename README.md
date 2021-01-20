@@ -41,32 +41,29 @@ Zastosowane w aplikacji:
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(7).png)
  <br/>
  
- <br/>
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(8).png)
  <br/>
  Walidacja danych
- <br/>
+ 
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(9).png)
  <br/>
  
- <br/>
+ 
  ![Logowanie](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(15).png)
  <br/>
  
- <br/>
+ 
  ![Lista książek](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(11).png)
  <br/>
  
- <br/>
+ 
  ![Dodawanie książki](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(13).png)
  <br/>
  
- <br/>
+ 
  ![Zaktualizowana lista książek](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(14).png)
  <br/>
  
- <br/>
- ![Wyszukiwanie ksiązki po ID](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(12).png)
- <br/>
  
+ ![Wyszukiwanie ksiązki po ID](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(12).png)
  <br/>
