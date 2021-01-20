@@ -44,7 +44,7 @@ Zastosowane w aplikacji:
  <br/>
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(8).png)
  <br/>
- 
+ Walidacja danych
  <br/>
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(9).png)
  <br/>
