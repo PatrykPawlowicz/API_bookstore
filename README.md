@@ -44,7 +44,7 @@ Zastosowane w aplikacji:
  <br>
  ![Rejestracja](./screenshots/Zrzut ekranu (9).png)
  <br>
- ![Logowanie]()
+ ![Logowanie](./screenshots/Zrzut ekranu (15).png)
  <br>
  ![Lista książek](./screenshots/Zrzut ekranu (11).png)
  <br>
