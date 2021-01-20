@@ -8,6 +8,7 @@ API biblioteki umożliwiające:
   <li> dodawanie nowych pozycji,
   <li> usuwanie niepotrzebnych pozycji z bazy danych
 </ul>
+
 ## Pobieranie danych
 Do pobrania danych należy:
 <ol>
@@ -24,30 +25,30 @@ Logowanie użytkowników jest walidowane pod kątem odpowiednich parametrów pod
 
 Wersje frameworków:
 
-    "@hapi/joi": "^15.0.3", <br>
-    "bcryptjs": "^2.4.3", <br>
-    "body-parser": "^1.19.0", <br>
-    "dotenv": "^8.2.0", <br>
-    "express": "^4.17.1", <br>
-    "jsonwebtoken": "^8.5.1", <br>
-    "mongoose": "^5.11.12",<br>
-    "morgan": "^1.10.0", <br>
-    "nodemon": "^2.0.6" <br>
+    "@hapi/joi": "^15.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.12",
+    "morgan": "^1.10.0", 
+    "nodemon": "^2.0.6" 
     
 ## Przykłady działania
- ![Rejestracja](screenshoots/Zrzut ekranu (7).png)
+ ![Rejestracja](./screenshoots/Zrzut ekranu (7).png)
  <br>
- ![Rejestracja](screenshoots/Zrzut ekranu (8).png)
+ ![Rejestracja](./screenshoots/Zrzut ekranu (8).png)
  <br>
- ![Rejestracja](screenshoots/Zrzut ekranu (9).png)
+ ![Rejestracja](./screenshoots/Zrzut ekranu (9).png)
  <br>
  ![Logowanie]()
  <br>
- ![Lista książek](screenshoots/Zrzut ekranu (11).png)
+ ![Lista książek](./screenshoots/Zrzut ekranu (11).png)
  <br>
- ![Dodawanie książki](screenshoots/Zrzut ekranu (13).png)
+ ![Dodawanie książki](./screenshoots/Zrzut ekranu (13).png)
  <br>
- ![Zaktualizowana lista książek](screenshoots/Zrzut ekranu (14).png)
+ ![Zaktualizowana lista książek](./screenshoots/Zrzut ekranu (14).png)
  <br>
- ![Wyszukiwanie ksiązki po ID](screenshoots/Zrzut ekranu (12).png)
+ ![Wyszukiwanie ksiązki po ID](./screenshoots/Zrzut ekranu (12).png)
  <br>
