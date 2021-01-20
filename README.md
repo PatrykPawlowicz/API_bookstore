@@ -39,7 +39,7 @@ Zastosowane w aplikacji:
     
 ## Przykłady działania
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(7).png)
- </br>
+ <br>
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(8).png)
  </br>
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(9).png)
