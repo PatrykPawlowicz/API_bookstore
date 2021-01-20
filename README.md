@@ -38,7 +38,7 @@ Zastosowane w aplikacji:
     "nodemon": "^2.0.6" 
     
 ## Przykłady działania
- ![Rejestracja](./screenshots/Zrzut ekranu (7).png)
+ ![Rejestracja](./screenshots/Zrzut ekranu(7).png)
  <br>
  ![Rejestracja](./screenshots/Zrzut ekranu (8).png)
  <br>
