@@ -42,12 +42,16 @@ Zastosowane w aplikacji:
  Utworzenie nwego użytkownika - hasło zaszyfrowane
  <br/>
  
+ 
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(8).png)
  Walidacja hasła
  <br/>
+ 
+ 
  ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(9).png)
  Walidacja maila
  <br/>
+ 
  
  ![Logowanie](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(15).png)
  Zalogowano i otrzymano token
