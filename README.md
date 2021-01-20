@@ -38,19 +38,19 @@ Zastosowane w aplikacji:
     "nodemon": "^2.0.6" 
     
 ## Przykłady działania
- ![Rejestracja](./screenshots/Zrzut ekranu(7).png)
+ ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(7).png)
  <br>
- ![Rejestracja](./screenshots/Zrzut ekranu (8).png)
+ ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(8).png)
  <br>
- ![Rejestracja](./screenshots/Zrzut ekranu (9).png)
+ ![Rejestracja](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(9).png)
  <br>
- ![Logowanie](./screenshots/Zrzut ekranu (15).png)
+ ![Logowanie](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(15).png)
  <br>
- ![Lista książek](./screenshots/Zrzut ekranu (11).png)
+ ![Lista książek](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(11).png)
  <br>
- ![Dodawanie książki](./screenshots/Zrzut ekranu (13).png)
+ ![Dodawanie książki](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(13).png)
  <br>
- ![Zaktualizowana lista książek](./screenshots/Zrzut ekranu (14).png)
+ ![Zaktualizowana lista książek](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(14).png)
  <br>
- ![Wyszukiwanie ksiązki po ID](./screenshots/Zrzut ekranu (12).png)
+ ![Wyszukiwanie ksiązki po ID](https://github.com/PatrykPawlowicz/API_bookstore/blob/main/screenshots/Zrzut%20ekranu%20(12).png)
  <br>
