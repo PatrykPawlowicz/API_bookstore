@@ -1,5 +1,5 @@
 # API Biblioteka
-Autorzy: [Patryk Pawłowicz](https://github.com/PatrykPawlowicz), [Mateusz Sałata](https://github.com/mateuszsalata1108)
+Autorzy: [Mateusz Sałata](https://github.com/mateuszsalata1108), [Patryk Pawłowicz](https://github.com/PatrykPawlowicz),
 
 Język: JavaScript
 ## Krótki opis
